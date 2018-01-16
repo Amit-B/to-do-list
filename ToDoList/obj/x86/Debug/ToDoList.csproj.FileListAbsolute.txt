@@ -1,0 +1,26 @@
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\ToDoList\ToDoList\bin\Debug\ToDoList.exe
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\ToDoList\ToDoList\bin\Debug\ToDoList.pdb
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\ToDoList\ToDoList\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\ToDoList\ToDoList\obj\x86\Debug\ToDoList.Main.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\ToDoList\ToDoList\obj\x86\Debug\ToDoList.Images.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\ToDoList\ToDoList\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\ToDoList\ToDoList\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\ToDoList\ToDoList\obj\x86\Debug\ToDoList.exe
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\ToDoList\ToDoList\obj\x86\Debug\ToDoList.pdb
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\ToDoList\ToDoList\obj\x86\Debug\ToDoList.About.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\ToDoList\ToDoList\obj\x86\Debug\ToDoList.Setting.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\ToDoList\ToDoList\obj\x86\Debug\ToDoList.AddItem.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\ToDoList\ToDoList\obj\x86\Debug\ToDoList.EditItems.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\ToDoList\ToDoList\obj\x86\Debug\ToDoList.exe
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\ToDoList\ToDoList\obj\x86\Debug\ToDoList.pdb
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\ToDoList\ToDoList\bin\Debug\ToDoList.exe
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\ToDoList\ToDoList\bin\Debug\ToDoList.pdb
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\ToDoList\ToDoList\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\ToDoList\ToDoList\obj\x86\Debug\ToDoList.About.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\ToDoList\ToDoList\obj\x86\Debug\ToDoList.AddItem.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\ToDoList\ToDoList\obj\x86\Debug\ToDoList.EditItems.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\ToDoList\ToDoList\obj\x86\Debug\ToDoList.Main.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\ToDoList\ToDoList\obj\x86\Debug\ToDoList.Images.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\ToDoList\ToDoList\obj\x86\Debug\ToDoList.Setting.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\ToDoList\ToDoList\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\ToDoList\ToDoList\obj\x86\Debug\GenerateResource.write.1.tlog
